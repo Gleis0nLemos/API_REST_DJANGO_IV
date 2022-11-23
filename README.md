@@ -3,13 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 03: 
+## Aula 04: 
 
-#### Vimos como inclui um middleware de internacionalização;
+#### Aprendemos como criar um cenário de teste, sem utilizar os dados da aplicação;
 
-#### Aprendemos como alterar as mensagens padrões do Django;
-
-#### Incluímos na prática a negociação de conteúdo, seja ele um JSON ou XML com base no cabeçalho Accept.
+#### Escrevemos os testes das principais requisições do recurso de cursos.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
