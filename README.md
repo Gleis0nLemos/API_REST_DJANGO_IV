@@ -3,13 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 01: 
+## Aula 02: 
 
-#### Carregamos o projeto base local e executamos o arquivo seed.py, para criar alunos e cursos;
+#### Aprendemos como melhorar a performance da API utilizando cache;
 
-#### Aprendemos como trabalhar com arquivos estáticos no Django Rest Framework;
-
-#### Vimos na prática como realizar uma requisição POST e PUT de uma foto.
+#### Instalamos e subimos o servidor do Redis;
+ 
+#### Integramos o Django e o Redis.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
