@@ -3,13 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 02: 
+## Aula 03: 
 
-#### Aprendemos como melhorar a performance da API utilizando cache;
+#### Vimos como inclui um middleware de internacionalização;
 
-#### Instalamos e subimos o servidor do Redis;
- 
-#### Integramos o Django e o Redis.
+#### Aprendemos como alterar as mensagens padrões do Django;
+
+#### Incluímos na prática a negociação de conteúdo, seja ele um JSON ou XML com base no cabeçalho Accept.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
