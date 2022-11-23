@@ -3,11 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 04: 
+## Aula 05: 
 
-#### Aprendemos como criar um cenário de teste, sem utilizar os dados da aplicação;
+#### Entendemos a importância de alterar o path para acessar o área de Admin do Django;
 
-#### Escrevemos os testes das principais requisições do recurso de cursos.
+#### Incluímos uma falsa tela de login de administrador do Django para registrar e notificar os administradores sobre tentativas de acesso não autorizado.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
